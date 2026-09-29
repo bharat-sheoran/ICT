@@ -4,19 +4,6 @@
 
 > Top-down bias review — filled in at the start of the month, revisited as the month develops.
 
----
-
-## 🧭 Quick Summary
-
-| Pillar | Read |
-|---|---|
-| Seasonal Tendency | |
-| Quarterly Shift | |
-| Rate Differential | |
-| Structure | |
-| **Net Monthly Bias** | |
-
----
 
 ## 🍂 Seasonal Tendency
 > ![Bitcoin] From Last Five Years, January month is either Downtrend or Consolidation </br>
@@ -51,7 +38,7 @@ OTE + Deeper Higher Low @ 48,931 </br>
 
 
 ## 🎯 Key Price Levels
-Rejection Block @ 82,483 </br>
+> Rejection Block @ 82,483 </br>
 Old Low @ 74,458 </br>
 Bullish OB @ 64,621 </br>
 OTE + Deeper Higher Low @ 48,931 </br>
