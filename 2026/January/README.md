@@ -68,6 +68,7 @@ OTE + Deeper Higher Low @ 48,931 </br>
 
 <details>
 <summary><h2>🥇 Gold</h2></summary>
+
 ### 🍂 Seasonal Tendency
 > 
 
