@@ -4,23 +4,39 @@
 
 > Top-down bias review — filled in at the start of the month, revisited as the month develops.
 
+---
 
-## 🍂 Seasonal Tendency
+## 🧭 Quick Summary
+
+| Symbol | Net Bias |
+|---|---|
+| Bitcoin | Bearish |
+| Gold | |
+| BNBUSD | |
+| Nifty | |
+| Sensex | |
+
+---
+
+<details>
+<summary><h2>₿ Bitcoin</h2></summary>
+
+### 🍂 Seasonal Tendency
 > ![Bitcoin] From Last Five Years, January month is either Downtrend or Consolidation </br>
 PS: Bitcoin don't follow seasonal tendencies, but it's good for Ideation of the price
 
 
-## 🔄 Quarterly Shifts
+### 🔄 Quarterly Shifts
 > From Monthly Perspective, BTC is in Retest zone near the Last Lower High
 <img src="./charts/QuaterlyShifts.png" width="500">
 
 
-## 💱 Interest Rate Differentials
+### 💱 Interest Rate Differentials
 > For Gold and Nifty Trades, Doesn't Matter for Bitcoin
 
 
 
-## 🧩 PD Array Matrix
+### 🧩 PD Array Matrix
 > Rejection Block @ 82,483 </br>
 Old Low @ 74,458 </br>
 Bullish OB @ 64,621 </br>
@@ -28,21 +44,147 @@ OTE + Deeper Higher Low @ 48,931 </br>
 <img src="./charts/BitcoinPDArrays.png" width="500">
 
 
-## 🏗️ Market Structure
+### 🏗️ Market Structure
 > HTF has seen a Retesting in the price
 
 
-## 📊 Market Profile
+### 📊 Market Profile
 > Market is in discount zone relative to last Higher Low
 
 
 
-## 🎯 Key Price Levels
+### 🎯 Key Price Levels
 > Rejection Block @ 82,483 </br>
 Old Low @ 74,458 </br>
 Bullish OB @ 64,621 </br>
 OTE + Deeper Higher Low @ 48,931 </br>
 
-## 🧠 Monthly Bias Defined
+### 🧠 Monthly Bias Defined
 > For this Month we will stay bearish on Monthly Basis
 
+</details>
+
+---
+
+<details>
+<summary><h2>🥇 Gold</h2></summary>
+### 🍂 Seasonal Tendency
+> 
+
+### 🔄 Quarterly Shifts
+> 
+
+### 💱 Interest Rate Differentials
+> 
+
+### 🧩 PD Array Matrix
+> 
+
+### 🏗️ Market Structure
+> 
+
+### 📊 Market Profile
+> 
+
+### 🎯 Key Price Levels
+> 
+
+### 🧠 Monthly Bias Defined
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🔶 BNBUSD</h2></summary>
+
+### 🍂 Seasonal Tendency
+> 
+
+### 🔄 Quarterly Shifts
+> 
+
+### 💱 Interest Rate Differentials
+> 
+
+### 🧩 PD Array Matrix
+> 
+
+### 🏗️ Market Structure
+> 
+
+### 📊 Market Profile
+> 
+
+### 🎯 Key Price Levels
+> 
+
+### 🧠 Monthly Bias Defined
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🇮🇳 Nifty</h2></summary>
+
+### 🍂 Seasonal Tendency
+> 
+
+### 🔄 Quarterly Shifts
+> 
+
+### 💱 Interest Rate Differentials
+> 
+
+### 🧩 PD Array Matrix
+> 
+
+### 🏗️ Market Structure
+> 
+
+### 📊 Market Profile
+> 
+
+### 🎯 Key Price Levels
+> 
+
+### 🧠 Monthly Bias Defined
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🇮🇳 Sensex</h2></summary>
+
+### 🍂 Seasonal Tendency
+> 
+
+### 🔄 Quarterly Shifts
+> 
+
+### 💱 Interest Rate Differentials
+> 
+
+### 🧩 PD Array Matrix
+> 
+
+### 🏗️ Market Structure
+> 
+
+### 📊 Market Profile
+> 
+
+### 🎯 Key Price Levels
+> 
+
+### 🧠 Monthly Bias Defined
+> 
+
+</details>
+
+---
