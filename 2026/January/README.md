@@ -11,15 +11,16 @@
 | Symbol | Net Bias |
 |---|---|
 | Bitcoin | Bearish |
-| Gold | |
+| Gold | Bullish |
 | BNBUSD | |
 | Nifty | |
 | Sensex | |
 
 ---
 
+<!-- #region Bitcoin -->
 <details>
-<summary><h2>₿ Bitcoin</h2></summary>
+<summary><h3>₿ Bitcoin</h3></summary>
 
 ### 🍂 Seasonal Tendency
 > ![Bitcoin] From Last Five Years, January month is either Downtrend or Consolidation </br>
@@ -64,39 +65,51 @@ OTE + Deeper Higher Low @ 48,931 </br>
 
 </details>
 
+<!-- #endregion -->
 ---
 
+<!-- #region Gold -->
 <details>
-<summary><h2>🥇 Gold</h2></summary>
+<summary><h3>🥇 Gold</h3></summary>
 
 ### 🍂 Seasonal Tendency
-> 
+> Gold is Strongly bullish in January from last 20Years, So I am expecting 3% move in this month
+<img src="./charts/GoldSeasonal.png" width="500">
 
 ### 🔄 Quarterly Shifts
-> 
+> From past 4 Months, Gold is in Strong Uptrend
 
 ### 💱 Interest Rate Differentials
-> 
+> Will fill out later
 
 ### 🧩 PD Array Matrix
-> 
+> Gold is at All Time High
+All Time High @ $4,550.04
+FVG b/w @ $3,507.10 to $3,815.65 
+Bullish OB at @ $2,762.29
+<img src="./charts/GoldPDArrays.png" width="500">
 
 ### 🏗️ Market Structure
-> 
+> Market Structure is Bullish, Gold is constantly making HH and HL
 
 ### 📊 Market Profile
-> 
+> Bullish
 
 ### 🎯 Key Price Levels
-> 
+> All Time High @ $4,550.04
+FVG b/w @ $3,507.10 to $3,815.65 
+Bullish OB at @ $2,762.29
 
 ### 🧠 Monthly Bias Defined
-> 
+> Bullish
 
 </details>
 
+<!-- #endregion -->
+
 ---
 
+<!-- #region BNB -->
 <details>
 <summary><h2>🔶 BNBUSD</h2></summary>
 
@@ -126,8 +139,11 @@ OTE + Deeper Higher Low @ 48,931 </br>
 
 </details>
 
+<!-- #endregion -->
+
 ---
 
+<!-- #region Nifty -->
 <details>
 <summary><h2>🇮🇳 Nifty</h2></summary>
 
@@ -157,8 +173,11 @@ OTE + Deeper Higher Low @ 48,931 </br>
 
 </details>
 
+<!-- #endregion -->
+
 ---
 
+<!-- #region Sensex -->
 <details>
 <summary><h2>🇮🇳 Sensex</h2></summary>
 
@@ -187,5 +206,7 @@ OTE + Deeper Higher Low @ 48,931 </br>
 > 
 
 </details>
+
+<!-- #endregion -->
 
 ---
