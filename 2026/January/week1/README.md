@@ -11,7 +11,7 @@
 | Symbol | Net Bias |
 |---|---|
 | Bitcoin | Consolidation / Bearish |
-| Gold | |
+| Gold | Bullish |
 | BNBUSD | |
 | Nifty | |
 | Sensex | |
@@ -103,6 +103,21 @@ As USDX and Gold are Inversely correlated, Another Bullish Signal
 
 ### 🧠 Weekly Bias Defined
 > All Variables are showing Bullish Bias
+
+### IPDA Range PD Arrays
+**60 Days**
+> All in 40 Days IPDA
+
+**40 Days**
+> Short Term Low @ $3,928 </br>
+Mitigation OB @ $4,195 </br>
+
+**20 Days**
+> Near Term High @ $4,550 </br>
+Near Term Low @ $4,163 </br>
+FVG Also
+<img src="./charts/GoldIPDA.png" width="500">
+
 
 </details>
 
