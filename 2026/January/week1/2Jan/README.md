@@ -51,3 +51,125 @@ Bias was Incorrect, Market stays bullish, respects the Asian range low both in L
 </details>
 
 ---
+
+<details>
+<summary><h2>🥇 Gold</h2></summary>
+
+### 💪 4Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 1Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 15Min Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 🎯 Entry
+> 
+
+### ✅ Trade Result
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🔶 BNBUSD</h2></summary>
+
+### 💪 4Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 1Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 15Min Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 🎯 Entry
+> 
+
+### ✅ Trade Result
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🇮🇳 Nifty</h2></summary>
+
+### 💪 4Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 1Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 15Min Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 🎯 Entry
+> 
+
+### ✅ Trade Result
+> 
+
+</details>
+
+---
+
+<details>
+<summary><h2>🇮🇳 Sensex</h2></summary>
+
+### 💪 4Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 1Hr Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 💪 15Min Perspective
+> 
+
+#### PD Arrays
+> 
+
+### 🎯 Entry
+> 
+
+### ✅ Trade Result
+> 
+
+</details>
