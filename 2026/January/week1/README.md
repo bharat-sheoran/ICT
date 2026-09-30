@@ -18,8 +18,9 @@
 
 ---
 
+<!-- #region Bitcoin -->
 <details>
-<summary><h2>₿ Bitcoin</h2></summary>
+<summary><h3>₿ Bitcoin</h3></summary>
 
 ### 💪 Relative Strength
 > Skip for now
@@ -67,37 +68,45 @@ Near Term Low @ 83,700 </br>
 
 </details>
 
+<!-- #endregion -->
 ---
 
+<!-- #region Gold -->
 <details>
-<summary><h2>🥇 Gold</h2></summary>
+<summary><h3>🥇 Gold</h3></summary>
 
 ### 💪 Relative Strength
-> 
+> Gold is in -34.77 William Relative Strength, Means it's in Premium Zone </br>
+<img src="./charts/GoldRS.png" width="500">
 
 ### 📑 Commitment of Traders
-> 
+> Commercials are selling the bought Holdings.
+<img src="./charts/GoldCOT.png" width="500">
 
 ### 🎭 Market Sentiment
-> 
+> The predicted market sentiment for gold leading into January 2027 and Q1 2027 is broadly bullish
 
 ### 📊 Market Profile
-> 
+> Bullish
 
 ### 🔗 Intermarket Analysis
-> 
+> USDX was in Strong Downtrend and is expected to go down in upcoming week </br>
+As USDX and Gold are Inversely correlated, Another Bullish Signal
+<img src="./charts/USDXCorrelation.png" width="500">
 
 ### 🏗️ Market Structure
-> 
+> Uptrend, HH HL
 
 ### 🧩 PD Array Matrix
-> 
+> Gold </br>
+<img src="./charts/GoldPDArrays.png" width="500">
 
 ### 🧠 Weekly Bias Defined
-> 
+> All Variables are showing Bullish Bias
 
 </details>
 
+<!-- #endregion -->
 ---
 
 <details>

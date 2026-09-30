@@ -83,10 +83,10 @@ OTE + Deeper Higher Low @ 48,931 </br>
 > Will fill out later
 
 ### 🧩 PD Array Matrix
-> Gold is at All Time High
-All Time High @ $4,550.04
-FVG b/w @ $3,507.10 to $3,815.65 
-Bullish OB at @ $2,762.29
+> Gold is at All Time High </br>
+All Time High @ $4,550.04 </br>
+FVG b/w @ $3,507.10 to $3,815.65 </br>
+Bullish OB at @ $2,762.29 </br>
 <img src="./charts/GoldPDArrays.png" width="500">
 
 ### 🏗️ Market Structure
@@ -96,9 +96,9 @@ Bullish OB at @ $2,762.29
 > Bullish
 
 ### 🎯 Key Price Levels
-> All Time High @ $4,550.04
-FVG b/w @ $3,507.10 to $3,815.65 
-Bullish OB at @ $2,762.29
+> All Time High @ $4,550.04 </br>
+FVG b/w @ $3,507.10 to $3,815.65 </br>
+Bullish OB at @ $2,762.29 </br>
 
 ### 🧠 Monthly Bias Defined
 > Bullish
