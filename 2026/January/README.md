@@ -12,7 +12,7 @@ PS: Bitcoin don't follow seasonal tendencies, but it's good for Ideation of the 
 
 ## 🔄 Quarterly Shifts
 > From Monthly Perspective, BTC is in Retest zone near the Last Lower High
-![Bitcoin](./charts/QuaterlyShifts.png)
+<img src="./charts/QuaterlyShifts.png" width="500">
 
 
 ## 💱 Interest Rate Differentials
@@ -25,7 +25,7 @@ PS: Bitcoin don't follow seasonal tendencies, but it's good for Ideation of the 
 Old Low @ 74,458 </br>
 Bullish OB @ 64,621 </br>
 OTE + Deeper Higher Low @ 48,931 </br>
-![Bitcoin](./charts/BitcoinPDArrays.png)
+<img src="./charts/BitcoinPDArrays.png" width="500">
 
 
 ## 🏗️ Market Structure
@@ -46,6 +46,3 @@ OTE + Deeper Higher Low @ 48,931 </br>
 ## 🧠 Monthly Bias Defined
 > For this Month we will stay bearish on Monthly Basis
 
-
-
----

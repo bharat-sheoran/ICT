@@ -29,6 +29,6 @@ StopLoss above FVG </br>
 Target to 4CBDR </br>
 
 ## Trade Result
-> Bias was Incorrect, Market stays bullish, respects the Asian range low both in London as well as in New York session
-Bitcoin
+> Bitcoin </br>
+Bias was Incorrect, Market stays bullish, respects the Asian range low both in London as well as in New York session </br>
 <img src="./charts/BitcoinTradeResult.png" width="500">
