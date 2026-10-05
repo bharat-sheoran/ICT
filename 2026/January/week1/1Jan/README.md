@@ -10,8 +10,9 @@
 
 ---
 
+<!-- #region Bitcoin -->
 <details>
-<summary><h2>₿ Bitcoin</h2></summary>
+<summary><h3>₿ Bitcoin</h3></summary>
 
 ### 💪 4Hr Perspective
 <img src="./charts/Bitcoin4Hr.png" width="500">
@@ -46,37 +47,41 @@ Target to 4CBDR </br>
 
 </details>
 
+<!-- #endregion -->
 ---
 
+<!-- #region Gold -->
 <details>
-<summary><h2>🥇 Gold</h2></summary>
+<summary><h3>🥇 Gold</h3></summary>
 
 ### 💪 4Hr Perspective
-> 
+> <img src="./charts/Gold4Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Same Marked in IPDA, No extra PD Arrays
 
 ### 💪 1Hr Perspective
-> 
+> <img src="./charts/Gold1Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Daily Highs, and Lows Marked with CBDR ranges
 
 ### 💪 15Min Perspective
-> 
+> <img src="./charts/Gold15Min.png" width="500">
 
 #### PD Arrays
-> 
+> Mitigation Block @ 4323.10$
 
 ### 🎯 Entry
-> 
+> IntraWeek Liquidity Sweep done in Gold, Looking for an entry from Mitigation Block, The price is lower than the highest Mitigation Block, so I took an entry on lower Mitigation block, Stop Loss is below asian Session, Target is 2 CBDR, previous London Session high
 
 ### ✅ Trade Result
-> 
+> Trade Bias was correct, ends with 1:10 Risk to Reward
+<img src="./charts/Gold15Min.png" width="500">
 
 </details>
 
+<!-- #endregion -->
 ---
 
 <details>
