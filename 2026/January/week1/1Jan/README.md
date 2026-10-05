@@ -84,35 +84,41 @@ Target to 4CBDR </br>
 <!-- #endregion -->
 ---
 
+<!-- #region Etherium -->
 <details>
-<summary><h2>🔶 BNBUSD</h2></summary>
+<summary><h3>🔶 ETHUSD</h3></summary>
 
 ### 💪 4Hr Perspective
-> 
+> 4 Hr is in Consolidation, No Extra PD Arrays than IPDA
+<img src="./charts/ETH4Hr.png" width="500">
 
 #### PD Arrays
-> 
+> No Extra PD Arrays
 
 ### 💪 1Hr Perspective
-> 
+> <img src="./charts/ETH1Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Day's High and Low + Intraweek High & Low </br>
+Week High and low Built on Monday.
+Daily High and Low is marked on Overlapping zone of London and New york
 
 ### 💪 15Min Perspective
-> 
+> <img src="./charts/ETH1Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Bullish Orderblock & Liquidity Pool just above the Bullish Orderblock.
 
 ### 🎯 Entry
-> 
+> Entry is on the Bullish Orderblock, Stoploss is till body of the orderblock and target is Previous day high rejection block.
 
 ### ✅ Trade Result
-> 
+> Bias was Correct, but move was not till my target, Also price didn't take my entry and Price respected asian Low.
+<img src="./charts/ETHTradeResult.png" width="500">
 
 </details>
 
+<!-- #endregion -->
 ---
 
 <details>
