@@ -125,31 +125,50 @@ FVG Also
 ---
 
 <details>
-<summary><h2>🔶 BNBUSD</h2></summary>
+<summary><h3>🔶 Etherium</h3></summary>
 
 ### 💪 Relative Strength
-> 
+> Etherium is in Buying Zone according to Relative Strength.
+<img src="./charts/ETHRS.png" width="500">
 
 ### 📑 Commitment of Traders
-> 
+> Commercials are buying the Holdings.
+<img src="./charts/EthSeasonals.png" width="500">
 
 ### 🎭 Market Sentiment
-> 
+> Predicted Market Sentiments was Bullish
 
 ### 📊 Market Profile
-> 
+> Bearish
 
 ### 🔗 Intermarket Analysis
-> 
+> Bitcoin was in Bearish trend
 
 ### 🏗️ Market Structure
-> 
+> LL and LH
 
 ### 🧩 PD Array Matrix
-> 
+> Etherium </br>
+Monthly PD Arrays + 1 Bullish OB @ $2512.7 </br>
+<img src="./charts/ETHPDArrays.png" width="500">
 
 ### 🧠 Weekly Bias Defined
-> 
+> Trend is Bearish, but we can see accumulation from OTE.
+
+### IPDA Range PD Arrays
+**60 Days**
+> ITH @4299 </br>
+Rejection Block @4157 </br>
+Mitigation Block @3747 </br>
+
+**40 Days**
+> STH @3660 </br>
+STL @2163</br>
+
+**20 Days**
+> NTH @3452 </br>
+NTL @2771 </br>
+<img src="./charts/ETHIPDA.png" width="500">
 
 </details>
 
