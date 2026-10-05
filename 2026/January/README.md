@@ -12,7 +12,7 @@
 |---|---|
 | Bitcoin | Bearish |
 | Gold | Bullish |
-| BNBUSD | |
+| Etherium | Bearish |
 | Nifty | |
 | Sensex | |
 
@@ -109,33 +109,43 @@ Bullish OB at @ $2,762.29 </br>
 
 ---
 
-<!-- #region BNB -->
+<!-- #region Etherium -->
 <details>
-<summary><h2>🔶 BNBUSD</h2></summary>
+<summary><h3>🔶 Etherium</h3></summary>
 
 ### 🍂 Seasonal Tendency
-> 
+> January shows both Bullish and Bearish Returns in January Month, We need to find bias from other aspects.
 
 ### 🔄 Quarterly Shifts
-> 
+> From Monthly Chart, I can clearly see a bearish run.
 
 ### 💱 Interest Rate Differentials
-> 
+> There is less Interest Rate affect on Crypto
 
 ### 🧩 PD Array Matrix
-> 
+> Etherium
+<img src="./charts/EthPDArrays.png" width="500">
 
 ### 🏗️ Market Structure
-> 
+> Right Now, Market is in Discount zone below Equilibrium of last Swing and in Bearish Retesting.
 
 ### 📊 Market Profile
-> 
+> Bearish
 
 ### 🎯 Key Price Levels
-> 
+> *** Premium Arrays ***
+Old High @ $4955.3 </br>
+Rejection Block @ $4393.1 </br>
+Equilibrium @ $3170.1
+
+*** Discount Arrays ***
+OTE @ $2435.9 </br>
+Rejection Block @ $1794.0
+Old Low @ $1385.7
+
 
 ### 🧠 Monthly Bias Defined
-> 
+> Bearish
 
 </details>
 

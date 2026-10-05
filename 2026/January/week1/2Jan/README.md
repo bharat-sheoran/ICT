@@ -3,15 +3,16 @@
 | Symbol | Result |
 |---|---|
 | Bitcoin | Bias was Incorrect, Market stays bullish |
-| Gold | |
+| Gold | No Data Availaible |
 | BNBUSD | |
 | Nifty | |
 | Sensex | |
 
 ---
 
+<!-- #region Bitcoin -->
 <details>
-<summary><h2>₿ Bitcoin</h2></summary>
+<summary><h3>₿ Bitcoin</h3></summary>
 
 ### 💪 4Hr Perspective
 > Bitcoin
@@ -50,37 +51,18 @@ Bias was Incorrect, Market stays bullish, respects the Asian range low both in L
 
 </details>
 
+<!-- #endregion -->
+
 ---
 
+<!-- #region Gold -->
 <details>
 <summary><h2>🥇 Gold</h2></summary>
 
-### 💪 4Hr Perspective
-> 
-
-#### PD Arrays
-> 
-
-### 💪 1Hr Perspective
-> 
-
-#### PD Arrays
-> 
-
-### 💪 15Min Perspective
-> 
-
-#### PD Arrays
-> 
-
-### 🎯 Entry
-> 
-
-### ✅ Trade Result
-> 
-
+No Gold Data Availaible for 2 January
 </details>
 
+<!-- #endregion -->
 ---
 
 <details>
