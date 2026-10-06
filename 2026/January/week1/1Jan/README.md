@@ -104,7 +104,7 @@ Week High and low Built on Monday.
 Daily High and Low is marked on Overlapping zone of London and New york
 
 ### 💪 15Min Perspective
-> <img src="./charts/ETH1Hr.png" width="500">
+> <img src="./charts/ETH15Min.png" width="500">
 
 #### PD Arrays
 > Bullish Orderblock & Liquidity Pool just above the Bullish Orderblock.

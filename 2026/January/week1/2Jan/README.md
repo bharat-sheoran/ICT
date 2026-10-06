@@ -65,35 +65,42 @@ No Gold Data Availaible for 2 January
 <!-- #endregion -->
 ---
 
+<!-- #region Etherium -->
 <details>
-<summary><h2>🔶 BNBUSD</h2></summary>
+<summary><h3>🔶 ETHUSD</h3></summary>
 
 ### 💪 4Hr Perspective
-> 
+> Last 4 candles are bullish with low momentum, So I can expect a Selling from @ 3002
+<img src="./charts/Eth4Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Right now Price is at Rejection block and is going towards Old High. </br>
+Rejection Block @3000 </br>
+Old High @3028
 
 ### 💪 1Hr Perspective
-> 
+> Intraweek and Previous Week High and Low is not broken yet, Price is at Premium side of Intraweek range.
+<img src="./charts/Eth1Hr.png" width="500">
 
 #### PD Arrays
-> 
+> Day Highs and lows + Intraweek Highs & Lows
 
 ### 💪 15Min Perspective
-> 
+> <img src="./charts/Eth15Min.png" width="500">
 
 #### PD Arrays
-> 
+> Rejection Block @ 3022
 
 ### 🎯 Entry
-> 
+> Entry on Rejection Block as Market took the inner Liquidity of Intraweek, I can aspect a Selling from the rejection block, Target is 4 CBDR and low of the Intraweek. Stoploss is the high of the rejection block.
 
 ### ✅ Trade Result
-> 
+> Bias was Incorrect
+<img src="./charts/EthTradeResult.png" width="500">
 
 </details>
 
+<!-- #endregion -->
 ---
 
 <details>
