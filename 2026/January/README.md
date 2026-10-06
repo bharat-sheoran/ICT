@@ -155,31 +155,35 @@ Old Low @ $1385.7
 
 <!-- #region Nifty -->
 <details>
-<summary><h2>🇮🇳 Nifty</h2></summary>
+<summary><h3>🇮🇳 Nifty</h3></summary>
 
 ### 🍂 Seasonal Tendency
-> 
+> Nifty Last 10 Years average for January is -0.5%, and In January Market keeps in consolidated bearish Zone.
+<img src="./charts/NiftySeasonals.png" width="500">
 
 ### 🔄 Quarterly Shifts
-> 
+> Last 4 Months Shown aggresive Bull runs, so I can see that January can be a consolidated bearish month
 
 ### 💱 Interest Rate Differentials
-> 
+> During this period, the interest rate differential between India's repo rate and the upper bound of the U.S. fed funds rate stood at a narrow 1.50% (5.25% minus 3.75%).
 
 ### 🧩 PD Array Matrix
-> 
+> <img src="./charts/NiftyPDArrays.png" width="500">
 
 ### 🏗️ Market Structure
-> 
+> Market is in Bullish Structure, Making HH and HL
 
 ### 📊 Market Profile
-> 
+> Bullish
 
 ### 🎯 Key Price Levels
-> 
+> All time High @ 26325Rs </br>
+Bullish OrderBlock Mean Threshold @ 25000Rs</br>
+FVG Near 23900Rs</br>
+Swing Low @ 23740Rs
 
 ### 🧠 Monthly Bias Defined
-> 
+> As Market is in Premium zone and Jan stays consolidated bearish, Monthly Bias is Bearish.
 
 </details>
 
