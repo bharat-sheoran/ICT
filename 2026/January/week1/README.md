@@ -124,6 +124,7 @@ FVG Also
 <!-- #endregion -->
 ---
 
+<!-- #region Etherium -->
 <details>
 <summary><h3>🔶 Etherium</h3></summary>
 
@@ -172,36 +173,58 @@ NTL @2771 </br>
 
 </details>
 
+<!-- #endregion -->
+
 ---
 
+<!-- #region Nifty -->
+
 <details>
-<summary><h2>🇮🇳 Nifty</h2></summary>
+<summary><h3>🇮🇳 Nifty</h3></summary>
 
 ### 💪 Relative Strength
-> 
+> Nifty is in Overbought Zone, we can expect a bearish week here
+<img src="./charts/NiftyRS.png" width="500">
 
 ### 📑 Commitment of Traders
-> 
+> There is NO COT, but in december, FII is at net selling.
 
 ### 🎭 Market Sentiment
-> 
+> All signs shows bearish signs
 
 ### 📊 Market Profile
-> 
+> Bearish
 
 ### 🔗 Intermarket Analysis
-> 
+> India VIX is at 9.5 expecting low volatility in markets
+<img src="./charts/VIX.png" width="500">
 
 ### 🏗️ Market Structure
-> 
+> HH and HL and in Premium zone right now
 
 ### 🧩 PD Array Matrix
-> 
+> Liquidity Void is Added into the PD Arrays
+<img src="./charts/NiftyPDArrays.png" width="500">
 
 ### 🧠 Weekly Bias Defined
-> 
+> Weekly bias is bearish.
+
+### IPDA Range PD Arrays
+**60 Days**
+> ITL @ 24589Rs </br>
+Liquidity Void @ 24400Rs </br>
+
+**40 Days**
+> STL @ 25313Rs </br>
+Liquidity Void @ 25767Rs </br>
+
+**20 Days**
+> NTL @ 25688Rs </br>
+<img src="./charts/NiftyIPDA.png" width="500">
 
 </details>
+
+<!-- #endregion -->
 
 ---
 

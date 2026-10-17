@@ -121,22 +121,28 @@ Daily High and Low is marked on Overlapping zone of London and New york
 <!-- #endregion -->
 ---
 
+<!-- #region Nifty -->
+
 <details>
-<summary><h2>🇮🇳 Nifty</h2></summary>
-
-### 💪 4Hr Perspective
-> 
-
-#### PD Arrays
-> 
+<summary><h3>🇮🇳 Nifty</h3></summary>
 
 ### 💪 1Hr Perspective
+> PWH made on Tuesday </br>
+PWL Broken on Monday </br>
+IWL made on Tuesday </br>
+IWH broken on wednesday and new IWH made on monday
+<img src="./charts/Nifty1Hr.png" width="500">
+
+#### PD Arrays
+> PWH, PWL, IWH, IWL
+
+### 💪 30Min Perspective
 > 
 
 #### PD Arrays
 > 
 
-### 💪 15Min Perspective
+### 💪 5Min Perspective
 > 
 
 #### PD Arrays
@@ -149,6 +155,8 @@ Daily High and Low is marked on Overlapping zone of London and New york
 > 
 
 </details>
+
+<!-- #endregion -->
 
 ---
 
