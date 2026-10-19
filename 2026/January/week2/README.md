@@ -78,7 +78,15 @@ FVG b/w @ 98,000 to @ 96,700 </br>
 <summary><h4>📥 Trades Taken This Week</h4></summary>
 
 <!-- TRADES:START -->
-_Not generated yet. Run `python scripts/update_weekly.py`._
+| Day | Trades | ✅ Win | ❌ Loss | ➖ BE |
+|---|---|---|---|---|
+| [5Jan](./5Jan/README.md) | 1 | 5 | 0 | 0 |
+| [6Jan](./6Jan/README.md) | 1 | 4 | 1 | 0 |
+| [7Jan](./7Jan/README.md) | 0 | 4 | 0 | 0 |
+| [8Jan](./8Jan/README.md) | 0 | 4 | 0 | 0 |
+| **Total** | **2** | **17** | **1** | **0** |
+
+**Win rate (excl. BE):** 94%
 <!-- TRADES:END -->
 
 </details>
