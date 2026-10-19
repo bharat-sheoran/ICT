@@ -14,6 +14,9 @@
 <details>
 <summary><h3>₿ Bitcoin</h3></summary>
 
+<details>
+<summary><h4>🔍 Pre-Observation</h4></summary>
+
 ### 💪 4Hr Perspective
 > Price Make the HL in 4Hr.
 <img src="./charts/Bitcoin4Hr.png" width="500">
@@ -29,12 +32,11 @@ Intraweek Low </br>
 <img src="./charts/Bitcoin1Hr.png" width="500">
 
 #### PD Arrays
-> Same as 4Hr </br> 
+> Same as 4Hr </br>
 
 ### 💪 15Min Perspective
 > No Trade Today
 <!-- <img src="./charts/Bitcoin15Min.png" width="500"> </br> -->
-</br>
 
 <!-- Change in Plans, Price breaks the Equal low liquidity, so Now that will act as a breaker block leading to new Entry
 <img src="./charts/Bitcoin15MinUpdated.png" width="500"> </br> -->
@@ -42,12 +44,49 @@ Intraweek Low </br>
 #### PD Arrays
 > Mititgation Block Mean Threshold </br>
 
-### 🎯 Entry
+### 🎯 Planned Entry
 > No Trade </br>
 
-### ✅ Trade Result
-> </br>
+</details>
+
+<details>
+<summary><h4>📥 Trade Taken</h4></summary>
+
+| Field | Details |
+|---|---|
+| Direction | None |
+| Entry Price | - |
+| Stop Loss | - |
+| Target | - |
+| Risk : Reward | - |
+| Entry Model | - |
+
+#### Reason for No Trade
+> Price is consolidating after taking Previous Day Low and Intraweek Low, and the CBDR range is too large to trade. </br>
+
+</details>
+
+<details>
+<summary><h4>📊 Post Price Observation</h4></summary>
+
+#### What Price Actually Did
+> How price moved after the session, did it break out of consolidation, which side it took liquidity on </br>
+
+<img src="./charts/BitcoinPostObservation.png" width="500">
+
+#### Pre vs Post
+> Was staying out the right call: Yes / No </br>
+Missed opportunity: Yes / No </br>
+Would the Mitigation Block Mean Threshold have worked: Yes / No </br>
+
+#### Mistakes / Lessons
+> What I did well and what I would change </br>
+
+### ⏸️ Trade Result
+> No trade taken. </br>
 <img src="./charts/BitcoinTradeResult.png" width="500">
+
+</details>
 
 </details>
 

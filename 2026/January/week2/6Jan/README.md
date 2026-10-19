@@ -14,6 +14,9 @@
 <details>
 <summary><h3>₿ Bitcoin</h3></summary>
 
+<details>
+<summary><h4>🔍 Pre-Observation</h4></summary>
+
 ### 💪 4Hr Perspective
 > Price broke the Previous STH and PMH (Short Term High & Previous Month High).
 <img src="./charts/Bitcoin4Hr.png" width="500">
@@ -29,27 +32,67 @@ Intraweek Low </br>
 <img src="./charts/Bitcoin1Hr.png" width="500">
 
 #### PD Arrays
-> 1Hr OB </br> 
+> 1Hr OB </br>
 
 ### 💪 15Min Perspective
 > Looking for entry a little down from 1Hr Orderblock, and that is also mean threshold 15Min Price Run
-<img src="./charts/Bitcoin15Min.png" width="500"> </br>
-</br>
+<img src="./charts/Bitcoin15Min.png" width="500">
 
-Change in Plans, Price breaks the Equal low liquidity, so Now that will act as a breaker block leading to new Entry
-<img src="./charts/Bitcoin15MinUpdated.png" width="500"> </br>
+#### 🔄 Change in Plans
+> Price breaks the Equal low liquidity, so now that will act as a breaker block leading to new Entry
+<img src="./charts/Bitcoin15MinUpdated.png" width="500">
 
 #### PD Arrays
 > 1Hr Orderblock </br>
 
-### 🎯 Entry
-> Entry is on Bearish OB just above the Internal liquidity of the Asian Session</br>
+### 🎯 Planned Entry
+> Entry is on Bearish OB just above the Internal liquidity of the Asian Session </br>
 StopLoss above CBDR body range </br>
 Target to previous Day Low </br>
 
-### ✅ Trade Result
-> Bias was correct, but Price took very good Liqudity including 1HrOrderblock, Asian session Liquidity is also done, Trade is in loss. </br>
+</details>
+
+<details>
+<summary><h4>📥 Trade Taken</h4></summary>
+
+| Field | Details |
+|---|---|
+| Direction | Short |
+| Entry Price | |
+| Stop Loss | Above CBDR body range |
+| Target | Previous Day Low |
+| Risk : Reward | |
+| Entry Time | |
+| Entry Model | Bearish OB (above Asian session internal liquidity) |
+
+#### Execution Notes
+> Why I entered here, what confirmation I waited for </br>
+
+<img src="./charts/BitcoinTradeTaken.png" width="500">
+
+</details>
+
+<details>
+<summary><h4>📊 Post Price Observation</h4></summary>
+
+#### What Price Actually Did
+> Price took very good liquidity including the 1Hr Orderblock, and Asian session liquidity was also taken. </br>
+
+<img src="./charts/BitcoinPostObservation.png" width="500">
+
+#### Pre vs Post
+> Bias: Correct </br>
+Entry triggered: Yes </br>
+Target hit: No </br>
+
+#### Mistakes / Lessons
+> What I did well and what I would change </br>
+
+### ❌ Trade Result
+> Bias was correct, but Price took very good Liquidity including 1Hr Orderblock, Asian session Liquidity is also done, Trade is in loss. </br>
 <img src="./charts/BitcoinTradeResult.png" width="500">
+
+</details>
 
 </details>
 

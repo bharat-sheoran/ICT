@@ -14,6 +14,9 @@
 <details>
 <summary><h3>₿ Bitcoin</h3></summary>
 
+<details>
+<summary><h4>🔍 Pre-Observation</h4></summary>
+
 ### 💪 4Hr Perspective
 <img src="./charts/Bitcoin4Hr.png" width="500">
 
@@ -38,14 +41,54 @@ Mitigation Block marked will be our entry zone. </br>
 #### PD Arrays
 > FVG Marked by green line </br>
 
-### 🎯 Entry
+### 🎯 Planned Entry
 > Entry is on Bullish OB </br>
 StopLoss below Bullish OB </br>
 Target to next swing </br>
 
+</details>
+
+<details>
+<summary><h4>📥 Trade Taken</h4></summary>
+
+| Field | Details |
+|---|---|
+| Direction | Long |
+| Entry Price | |
+| Stop Loss | |
+| Target | |
+| Risk : Reward | |
+| Entry Time | |
+| Entry Model | Bullish OB / Mitigation Block |
+
+#### Execution Notes
+> Why I entered here, what confirmation I waited for </br>
+
+<img src="./charts/BitcoinTradeTaken.png" width="500">
+
+</details>
+
+<details>
+<summary><h4>📊 Post Price Observation</h4></summary>
+
+#### What Price Actually Did
+> How price reacted after entry, did it sweep liquidity first, did it respect the OB </br>
+
+<img src="./charts/BitcoinPostObservation.png" width="500">
+
+#### Pre vs Post
+> Bias: Correct / Incorrect </br>
+Entry triggered: Yes / No </br>
+Target hit: Yes / No </br>
+
+#### Mistakes / Lessons
+> What I did well and what I would change </br>
+
 ### ✅ Trade Result
-> Bias was correct, Entry Point triggered, Trade was Successfull. </br>
+> Bias was correct, Entry Point triggered, Trade was Successful. </br>
 <img src="./charts/BitcoinTradeResult.png" width="500">
+
+</details>
 
 </details>
 
