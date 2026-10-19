@@ -54,17 +54,17 @@ Target to next swing </br>
 | Field | Details |
 |---|---|
 | Direction | Long |
-| Entry Price | |
-| Stop Loss | |
-| Target | |
-| Risk : Reward | |
-| Entry Time | |
-| Entry Model | Bullish OB / Mitigation Block |
+| Entry Price | $ 92420 |
+| Stop Loss | $ 92240 |
+| Target | $ 93390 |
+| Risk : Reward | 1:6 |
+| Entry Time | 2:30 PM |
+| Entry Model | Bullish OB |
 
 #### Execution Notes
-> Why I entered here, what confirmation I waited for </br>
+> There is Bullish OB here and took 1 Liquidity before going to the Orderblock. </br>
 
-<img src="./charts/BitcoinTradeTaken.png" width="500">
+<img src="./charts/BitcoinTradeResult.png" width="500">
 
 </details>
 
@@ -72,17 +72,18 @@ Target to next swing </br>
 <summary><h4>📊 Post Price Observation</h4></summary>
 
 #### What Price Actually Did
-> How price reacted after entry, did it sweep liquidity first, did it respect the OB </br>
+> Asian, London, New York respected each of them in bullish bias, Asian High Liquidity is taken by London Newyork Overlap </br>
+New York Closing Made the High of the week. </br>
 
 <img src="./charts/BitcoinPostObservation.png" width="500">
 
 #### Pre vs Post
-> Bias: Correct / Incorrect </br>
-Entry triggered: Yes / No </br>
-Target hit: Yes / No </br>
+> Bias: Correct </br>
+Entry triggered: Yes </br>
+Target hit: Yes </br>
 
 #### Mistakes / Lessons
-> What I did well and what I would change </br>
+> The entry was below New york new day opening which is a good case. </br>
 
 ### ✅ Trade Result
 > Bias was correct, Entry Point triggered, Trade was Successful. </br>
