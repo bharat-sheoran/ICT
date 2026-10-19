@@ -20,7 +20,10 @@
 
 <!-- #region Bitcoin -->
 <details>
-<summary><h3>₿ Bitcoin</h3></summary>
+<summary><h3>₿ Bitcoin · Weekly</h3></summary>
+
+<details>
+<summary><h4>🔍 Pre-Observation</h4></summary>
 
 ### 💪 Relative Strength
 > Relative strength is going Downwards, making LL & LH. going Downwards.
@@ -44,7 +47,7 @@
 
 ### 🧩 PD Array Matrix
 > PWH & PWL </br>
-Bearish OB </br >
+Bearish OB </br>
 <img src="./charts/BTCPDArrays.png" width="500">
 
 #### IPDA Range PD Arrays
@@ -67,7 +70,37 @@ FVG b/w @ 98,000 to @ 96,700 </br>
 <img src="./charts/BTCIPDA.png" width="500">
 
 ### 🧠 Weekly Bias Defined
-> Weekly bias is consolidation or bearish, No Longs for this week
+> Weekly bias is consolidation or bearish, No Longs for this week </br>
+
+</details>
+
+<details>
+<summary><h4>📥 Trades Taken This Week</h4></summary>
+
+<!-- TRADES:START -->
+_Not generated yet. Run `python scripts/update_weekly.py`._
+<!-- TRADES:END -->
+
+</details>
+
+<details>
+<summary><h4>📊 Post Observation</h4></summary>
+
+#### What Price Actually Did This Week
+> Weekly candle, which liquidity was taken (PWH / PWL / IPDA levels), did consolidation break </br>
+
+<img src="./charts/BitcoinWeeklyPost.png" width="500">
+
+#### Pre vs Post
+> Weekly bias: Correct / Incorrect </br>
+Did I stick to "No Longs": Yes / No </br>
+Best trade of the week: </br>
+Worst trade of the week: </br>
+
+#### Mistakes / Lessons
+> What I did well and what I would change next week </br>
+
+</details>
 
 </details>
 
