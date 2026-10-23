@@ -58,11 +58,11 @@ Target to previous Day Low </br>
 | Field | Details |
 |---|---|
 | Direction | Short |
-| Entry Price | |
-| Stop Loss | Above CBDR body range |
-| Target | Previous Day Low |
-| Risk : Reward | |
-| Entry Time | |
+| Entry Price | 93570 |
+| Stop Loss | 93740 |
+| Target | 92420 |
+| Risk : Reward | 1:6.6 |
+| Entry Time | 3:30 PM (London Session)|
 | Entry Model | Bearish OB (above Asian session internal liquidity) |
 
 #### Execution Notes
@@ -84,9 +84,12 @@ Target to previous Day Low </br>
 > Bias: Correct </br>
 Entry triggered: Yes </br>
 Target hit: No </br>
+Early Entry </br>
+High of Day at overlap around 7:45PM </br>
+Low of Day at New York session around 11:30PM </br>
 
 #### Mistakes / Lessons
-> What I did well and what I would change </br>
+> I entered near Asian Low for short which should not done. </br>
 
 ### ❌ Trade Result
 > Bias was correct, but Price took very good Liquidity including 1Hr Orderblock, Asian session Liquidity is also done, Trade is in loss. </br>

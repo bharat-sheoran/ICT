@@ -55,15 +55,15 @@ Intraweek Low </br>
 | Field | Details |
 |---|---|
 | Direction | Short |
-| Entry Price | |
-| Stop Loss | Last Lower High |
-| Target | Previous Day Low |
-| Risk : Reward | |
-| Entry Time | |
+| Entry Price | 90810 |
+| Stop Loss | 91150 |
+| Target | 89440 |
+| Risk : Reward | 1:4 |
+| Entry Time | 1:45 PM London Session |
 | Entry Model | Mitigation Block |
 
 #### Execution Notes
-> Why I entered here, what confirmation I waited for </br>
+> Waited for Liquidity taken out by the market. </br>
 
 <img src="./charts/BitcoinTradeTaken.png" width="500">
 
@@ -78,12 +78,12 @@ Intraweek Low </br>
 <img src="./charts/BitcoinPostObservation.png" width="500">
 
 #### Pre vs Post
-> Bias: Correct / Incorrect </br>
+> Bias: Correct </br>
 Entry triggered: Yes </br>
 Target hit: No </br>
 
 #### Mistakes / Lessons
-> What I did well and what I would change </br>
+> This was a good trade. </br>
 
 ### ➖ Trade Result
 > Trade goes to Breakeven, Price reversed before the Target </br>

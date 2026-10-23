@@ -70,17 +70,17 @@ Intraweek Low </br>
 <summary><h4>📊 Post Price Observation</h4></summary>
 
 #### What Price Actually Did
-> How price moved after the session, did it break out of consolidation, which side it took liquidity on </br>
+> High of Day at Asian session Opening  </br>
+Low of Day at New York 12:45 AM </br>
+Respected Each session </br>
 
 <img src="./charts/BitcoinPostObservation.png" width="500">
 
 #### Pre vs Post
-> Was staying out the right call: Yes / No </br>
-Missed opportunity: Yes / No </br>
-Would the Mitigation Block Mean Threshold have worked: Yes / No </br>
+> 
 
 #### Mistakes / Lessons
-> What I did well and what I would change </br>
+> I stayed Out of the market </br>
 
 ### ⏸️ Trade Result
 > No trade taken. </br>

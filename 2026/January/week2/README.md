@@ -95,18 +95,20 @@ FVG b/w @ 98,000 to @ 96,700 </br>
 <summary><h4>📊 Post Observation</h4></summary>
 
 #### What Price Actually Did This Week
-> Weekly candle, which liquidity was taken (PWH / PWL / IPDA levels), did consolidation break </br>
+> High of week -> Monday </br>
+Low of week -> Thursday </br>
+
 
 <img src="./charts/BitcoinWeeklyPost.png" width="500">
 
 #### Pre vs Post
-> Weekly bias: Correct / Incorrect </br>
-Did I stick to "No Longs": Yes / No </br>
-Best trade of the week: </br>
-Worst trade of the week: </br>
+> Weekly bias: Correct </br>
+Did I stick to "No Longs": No </br>
+Best trade of the week: 5 Jan Trade</br>
+Worst trade of the week: 9 Jan Trade</br>
 
 #### Mistakes / Lessons
-> What I did well and what I would change next week </br>
+> I stick to the 1 trade per day plan, cut my stoplosses </br>
 
 </details>
 
