@@ -100,6 +100,9 @@ Target hit: Yes </br>
 <details>
 <summary><h3>🥇 Gold</h3></summary>
 
+<details>
+<summary><h4>🔍 Pre-Observation</h4></summary>
+
 ### 💪 4Hr Perspective
 > <img src="./charts/Gold4Hr.png" width="500">
 
@@ -118,12 +121,56 @@ Target hit: Yes </br>
 #### PD Arrays
 > Mitigation Block @ 4323.10$
 
-### 🎯 Entry
+### 🎯 Planned Entry
 > IntraWeek Liquidity Sweep done in Gold, Looking for an entry from Mitigation Block, The price is lower than the highest Mitigation Block, so I took an entry on lower Mitigation block, Stop Loss is below asian Session, Target is 2 CBDR, previous London Session high
 
 ### ✅ Trade Result
 > Trade Bias was correct, ends with 1:10 Risk to Reward
 <img src="./charts/Gold15Min.png" width="500">
+
+</details>
+
+<details>
+<summary><h4>📥 Trade Taken</h4></summary>
+
+| Field | Details |
+|---|---|
+| Direction | Long |
+| Entry Price | $ 92420 |
+| Stop Loss | $ 92240 |
+| Target | $ 93390 |
+| Risk : Reward | 1:6 |
+| Entry Time | 2:30 PM |
+| Entry Model | Bullish OB |
+
+#### Execution Notes
+>  </br>
+
+<img src="./charts/BitcoinTradeResult.png" width="500">
+
+</details>
+
+<details>
+<summary><h4>📊 Post Price Observation</h4></summary>
+
+#### What Price Actually Did
+> 
+
+<img src="./charts/BitcoinPostObservation.png" width="500">
+
+#### Pre vs Post
+> Bias: Correct </br>
+Entry triggered: Yes </br>
+Target hit: Yes </br>
+
+#### Mistakes / Lessons
+>  </br>
+
+### ✅ Trade Result
+> </br>
+<img src="./charts/BitcoinTradeResult.png" width="500">
+
+</details>
 
 </details>
 

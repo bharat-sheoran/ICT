@@ -164,6 +164,23 @@ Near Term Low @ $4,163 </br>
 FVG Also
 <img src="./charts/GoldIPDA.png" width="500">
 
+<details>
+<summary><h4>📊 Post Observation</h4></summary>
+
+#### What Price Actually Did This Week
+>  </br>
+ </br>
+
+
+<img src="./charts/BitcoinWeeklyPost.png" width="500">
+
+#### Pre vs Post
+> 
+
+#### Mistakes / Lessons
+>  </br>
+
+</details>
 
 </details>
 
